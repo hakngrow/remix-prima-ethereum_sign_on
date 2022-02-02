@@ -1,2 +1,2 @@
-# remix-prisma-ethereum_sign_on
+# Implement Ethereum Sign-on using Remix web framework and Prisma ORM
  
