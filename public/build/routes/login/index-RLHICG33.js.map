@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:C:\\Users\\howie.ng\\Documents\\projects\\blockchain\\sign-on-ethereum\\app\\routes\\login\\index.tsx?browser", "../../../../app/routes/login/index.tsx"],
+  "sourcesContent": ["export { default } from \"C:\\\\Users\\\\howie.ng\\\\Documents\\\\projects\\\\blockchain\\\\sign-on-ethereum\\\\app\\\\routes\\\\login\\\\index.tsx\";", "export default function login() {\r\n    return <h1>gm</h1>\r\n}"],
+  "mappings": ";;;;;;AAAA;;;ACAA;AAAe,iBAAiB;AAC5B,SAAO,oCAAC,MAAD,MAAI;AAAA;",
+  "names": []
+}

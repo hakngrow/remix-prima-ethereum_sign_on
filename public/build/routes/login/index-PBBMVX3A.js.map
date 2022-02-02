@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:C:\\Users\\howie.ng\\Documents\\projects\\blockchain\\sign-on-ethereum\\app\\routes\\login\\index.tsx?browser", "../../../../app/routes/login/index.tsx"],
+  "sourcesContent": ["export { default } from \"C:\\\\Users\\\\howie.ng\\\\Documents\\\\projects\\\\blockchain\\\\sign-on-ethereum\\\\app\\\\routes\\\\login\\\\index.tsx\";", "const getWeb3 = async () => {\r\n    if( window.ethereum ) {\r\n\r\n    }\r\n    else\r\n        throw new Error('Metamask needs to be installed!!!');\r\n};\r\n\r\nexport default function login() {\r\n    return (\r\n        <div>\r\n            <h1>gm</h1>\r\n            <button>Sign in with Ethereum</button>\r\n        </div>\r\n    );\r\n}"],
+  "mappings": ";;;;;;AAAA;;;ACAA;AAQe,iBAAiB;AAC5B,SACI,oCAAC,OAAD,MACI,oCAAC,MAAD,MAAI,OACJ,oCAAC,UAAD,MAAQ;AAAA;",
+  "names": []
+}

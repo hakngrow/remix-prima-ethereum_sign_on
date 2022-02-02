@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": ["browser-route-module:C:\\Users\\howie.ng\\Documents\\projects\\blockchain\\sign-on-ethereum\\app\\routes\\login\\$userId.tsx?browser", "../../../../app/routes/login/$userId.tsx"],
+  "sourcesContent": ["export { default } from \"C:\\\\Users\\\\howie.ng\\\\Documents\\\\projects\\\\blockchain\\\\sign-on-ethereum\\\\app\\\\routes\\\\login\\\\$userId.tsx\";", "import { db } from \"~/utils/db.server\";\r\nimport { LoaderFunction, useLoaderData } from \"remix\";\r\n\r\nexport default function userPage() {\r\n    return <h1>gm</h1>;\r\n}"],
+  "mappings": ";;;;;;AAAA;;;ACAA;AAGe,oBAAoB;AAC/B,SAAO,oCAAC,MAAD,MAAI;AAAA;",
+  "names": []
+}
